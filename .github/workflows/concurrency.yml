@@ -1,4 +1,3 @@
-# hoge
 name: Concurrency
 on: push
 concurrency: ${{ github.workflow }}
